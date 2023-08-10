@@ -1,0 +1,15 @@
+{
+  "name": "learning-test",
+  "author": "Robert Vásquez <vasquezrober09@gmail.com>",
+  "description": "Test initial",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.10",
+    "jest": "^29.6.2"
+  }
+}
